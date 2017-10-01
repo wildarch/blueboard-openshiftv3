@@ -1,0 +1,626 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "15f569dc782efe0711e938ca9302ae50c45faa1b.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/15f569dc782efe0711e938ca9302ae50c45faa1b.js?meteor_js_resource=true",
+      "size": 1552390,
+      "hash": "15f569dc782efe0711e938ca9302ae50c45faa1b"
+    },
+    {
+      "path": "15f569dc782efe0711e938ca9302ae50c45faa1b.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/15f569dc782efe0711e938ca9302ae50c45faa1b.stats.json?meteor_js_resource=true",
+      "size": 25296,
+      "hash": "efe9471af3126b94df8425b5283f40aac96d5d87"
+    },
+    {
+      "path": "635e865a0e0e7d2ae07ae4ef79de7a3248fb2b5c.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/635e865a0e0e7d2ae07ae4ef79de7a3248fb2b5c.css?meteor_css_resource=true",
+      "size": 238127,
+      "hash": "635e865a0e0e7d2ae07ae4ef79de7a3248fb2b5c"
+    },
+    {
+      "path": "67d8473168730a10d46194ad00c60be300d863d0.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/67d8473168730a10d46194ad00c60be300d863d0.css?meteor_css_resource=true",
+      "size": 349849,
+      "hash": "67d8473168730a10d46194ad00c60be300d863d0"
+    },
+    {
+      "path": "packages/mizzao_jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png",
+      "size": 251,
+      "hash": "fda7dcb002c5f80d39ebaf992ac0327a41f8967b"
+    },
+    {
+      "path": "packages/mizzao_jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png",
+      "size": 247,
+      "hash": "0a469994aefc697ace5f0d133040880af35604e4"
+    },
+    {
+      "path": "packages/mizzao_jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png",
+      "size": 374,
+      "hash": "a2d02b65cd3c7f68b2dd8de43144419ce30c264c"
+    },
+    {
+      "path": "packages/mizzao_jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png",
+      "size": 246,
+      "hash": "1eaf3631b0cab7c90288dd206a72b3b57f96f52b"
+    },
+    {
+      "path": "packages/mizzao_jquery-ui/images/ui-bg_glass_75_dadada_1x400.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_jquery-ui/images/ui-bg_glass_75_dadada_1x400.png",
+      "size": 301,
+      "hash": "801cc7a7e4d882564fd2b6e37dad1bf27b491285"
+    },
+    {
+      "path": "packages/mizzao_jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png",
+      "size": 301,
+      "hash": "59a516bf218905801cb79bde579fcbfbf86cd598"
+    },
+    {
+      "path": "packages/mizzao_jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png",
+      "size": 371,
+      "hash": "444921bd36e477c6d0a87d2107b4897353c8a7a9"
+    },
+    {
+      "path": "packages/mizzao_jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "size": 319,
+      "hash": "8cde04a75f255e90e25a60eb3e317145e19a661d"
+    },
+    {
+      "path": "packages/mizzao_jquery-ui/images/ui-icons_222222_256x240.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_jquery-ui/images/ui-icons_222222_256x240.png",
+      "size": 7006,
+      "hash": "764175ac6074d1d76da54fe7ef64f2dbbaed6c0e"
+    },
+    {
+      "path": "packages/mizzao_jquery-ui/images/ui-icons_2e83ff_256x240.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_jquery-ui/images/ui-icons_2e83ff_256x240.png",
+      "size": 4599,
+      "hash": "6b34b1bbc5f2301243916b806ea22b000b1d62e9"
+    },
+    {
+      "path": "packages/mizzao_jquery-ui/images/ui-icons_454545_256x240.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_jquery-ui/images/ui-icons_454545_256x240.png",
+      "size": 7071,
+      "hash": "af60bb19773ee73c5c7d4a8607590cdcadae43f8"
+    },
+    {
+      "path": "packages/mizzao_jquery-ui/images/ui-icons_888888_256x240.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_jquery-ui/images/ui-icons_888888_256x240.png",
+      "size": 7092,
+      "hash": "410ddbe085766a85e99daba9a0e1b821dd572909"
+    },
+    {
+      "path": "packages/mizzao_jquery-ui/images/ui-icons_cd0a0a_256x240.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_jquery-ui/images/ui-icons_cd0a0a_256x240.png",
+      "size": 4599,
+      "hash": "486b41238683f3bc9cf86bb48a855d2b6e22c17c"
+    },
+    {
+      "path": "app/favicon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon.png",
+      "size": 1469,
+      "hash": "5074ab2bef40995216b28f2a7216c70d3baee54f"
+    },
+    {
+      "path": "app/logo-be.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logo-be.png",
+      "size": 2339,
+      "hash": "ae425efb1f48dae2617037d3e266b299f95b6f44"
+    },
+    {
+      "path": "app/fonts/ethon.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ethon.woff",
+      "size": 11820,
+      "hash": "96b750c20d3d521b005216c96e6031a1009be90d"
+    },
+    {
+      "path": "app/gantt/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/README.md",
+      "size": 1150,
+      "hash": "b30cf44c5a22ff268358abb9ad5b77bc53771960"
+    },
+    {
+      "path": "app/gantt/gantt.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/gantt.css",
+      "size": 10423,
+      "hash": "bcde8b61855396d0f9cd1fd922d2aa817936c1b1"
+    },
+    {
+      "path": "app/gantt/gantt.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/gantt.html",
+      "size": 24044,
+      "hash": "bc4deb491961afbc25f7f7d1cfc3dfbbb5011964"
+    },
+    {
+      "path": "app/gantt/ganttDrawer.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/ganttDrawer.js",
+      "size": 25547,
+      "hash": "f6c14123fc3710034546ec5721b49a255eff363d"
+    },
+    {
+      "path": "app/gantt/ganttDrawerSVG.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/ganttDrawerSVG.js",
+      "size": 35464,
+      "hash": "8a1e285b4515636c19e76190d24c6334099762bb"
+    },
+    {
+      "path": "app/gantt/ganttGridEditor.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/ganttGridEditor.js",
+      "size": 21593,
+      "hash": "b723d0ffa50a1f9fce82e1e138be0cf759dee6f9"
+    },
+    {
+      "path": "app/gantt/ganttMaster.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/ganttMaster.js",
+      "size": 33495,
+      "hash": "9b5b6f752d50b4f5b152b1888270e08d16395d9f"
+    },
+    {
+      "path": "app/gantt/ganttPrint.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/ganttPrint.css",
+      "size": 925,
+      "hash": "8936c11737fb5520a4d461e5942b5403dfa1898a"
+    },
+    {
+      "path": "app/gantt/ganttTask.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/ganttTask.js",
+      "size": 30026,
+      "hash": "24e8df9eeee831322f2042c4be13b8c4c659b092"
+    },
+    {
+      "path": "app/gantt/ganttUtilities.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/ganttUtilities.js",
+      "size": 9987,
+      "hash": "f8cb5b16ce985ae6b20c3940c415d8fb87d7be4f"
+    },
+    {
+      "path": "app/gantt/platform.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/platform.css",
+      "size": 6942,
+      "hash": "3c1fdeb90b12d846e79a1ddcaedb44cd45d9c98a"
+    },
+    {
+      "path": "app/gantt/teamwork-regular-webfont.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/teamwork-regular-webfont.eot",
+      "size": 23827,
+      "hash": "6e6f49a5a92c889214925a2bd9d56723470b0a0e"
+    },
+    {
+      "path": "app/gantt/teamwork-regular-webfont.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/teamwork-regular-webfont.otf",
+      "size": 18260,
+      "hash": "228783a79b86948ae3cfbe9539832baed19314f6"
+    },
+    {
+      "path": "app/gantt/teamwork-regular-webfont.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/teamwork-regular-webfont.svg",
+      "size": 55739,
+      "hash": "e0183ba5680f44fdd83d5c95fb37e3144e8ef42c"
+    },
+    {
+      "path": "app/gantt/teamwork-regular-webfont.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/teamwork-regular-webfont.ttf",
+      "size": 37208,
+      "hash": "a12263e63cbabcdbbccd9e63e45ba616387f6de6"
+    },
+    {
+      "path": "app/gantt/teamwork-regular-webfont.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/teamwork-regular-webfont.woff",
+      "size": 26948,
+      "hash": "25a23b66fc75d41a81d5ee4ab3a2ed929567967f"
+    },
+    {
+      "path": "app/gantt/teamworkFont.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/teamworkFont.css",
+      "size": 480,
+      "hash": "a4bae798b99d69b514a2118d7d38177416ca9b35"
+    },
+    {
+      "path": "app/gantt/libs/date.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/date.js",
+      "size": 15729,
+      "hash": "3c1df3dd23fcab9c00913510a6a383129e9bdd7e"
+    },
+    {
+      "path": "app/gantt/libs/i18nJs.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/i18nJs.js",
+      "size": 3985,
+      "hash": "cd2dd6c1f55ad686e6f678310d8be02827cdb043"
+    },
+    {
+      "path": "app/gantt/libs/jquery.1.8.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/jquery.1.8.js",
+      "size": 306408,
+      "hash": "da9e230b8a67f38dd950102340e69e6934c40e43"
+    },
+    {
+      "path": "app/gantt/libs/jquery.livequery.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/jquery.livequery.min.js",
+      "size": 3649,
+      "hash": "d375932bf8dd3e9b55a819ee892cc88bf672f947"
+    },
+    {
+      "path": "app/gantt/libs/jquery.svg.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/jquery.svg.css",
+      "size": 428,
+      "hash": "6fbdfb5cebfe29f570a6268eeab2dd2091771d61"
+    },
+    {
+      "path": "app/gantt/libs/jquery.svg.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/jquery.svg.js",
+      "size": 56756,
+      "hash": "e2b8b435bed554d137a04182347577a2c1d03e28"
+    },
+    {
+      "path": "app/gantt/libs/jquery.svg.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/jquery.svg.min.js",
+      "size": 20130,
+      "hash": "838e2c0db10f095c987c523e013d7d4c9cec5f75"
+    },
+    {
+      "path": "app/gantt/libs/jquery.svgdom.1.8.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/jquery.svgdom.1.8.js",
+      "size": 12546,
+      "hash": "f76109694a6b9457a036b57afafa80ff1f686750"
+    },
+    {
+      "path": "app/gantt/libs/jquery.svgdom.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/jquery.svgdom.js",
+      "size": 11596,
+      "hash": "c856db32a568dbdfd03184621274221095157656"
+    },
+    {
+      "path": "app/gantt/libs/jquery.svgdom.pack.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/jquery.svgdom.pack.js",
+      "size": 4087,
+      "hash": "7d09129ca614aaa4e2de84763356c609af0c2bf9"
+    },
+    {
+      "path": "app/gantt/libs/jquery.timers.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/jquery.timers.js",
+      "size": 3207,
+      "hash": "e1040d2c3fbeda645e8b445ebb17a89f6ca2fb9f"
+    },
+    {
+      "path": "app/gantt/libs/platform.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/platform.js",
+      "size": 28916,
+      "hash": "b6000819ce96e7f524d439f00de11920f85feb4b"
+    },
+    {
+      "path": "app/gantt/res/alert.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/res/alert.gif",
+      "size": 397,
+      "hash": "80f41b63a157ffeffb8634ca11da11a2d9e262c8"
+    },
+    {
+      "path": "app/gantt/res/black_70.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/res/black_70.png",
+      "size": 166,
+      "hash": "419aff7760b7543ef6d5b143248d0d0d345b4e04"
+    },
+    {
+      "path": "app/gantt/res/closeBig.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/res/closeBig.png",
+      "size": 904,
+      "hash": "a0260a8dddde5ba22e677ed4778d4d16d95ba859"
+    },
+    {
+      "path": "app/gantt/res/hasExternalDeps.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/res/hasExternalDeps.png",
+      "size": 995,
+      "hash": "53d808492e185d3d13dcc8943435841a5d3e67d5"
+    },
+    {
+      "path": "app/gantt/res/linkArrow.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/res/linkArrow.png",
+      "size": 210,
+      "hash": "766beef3c81f270d1a8ea00de2e0e7f9a46e0386"
+    },
+    {
+      "path": "app/gantt/res/milestone.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/res/milestone.png",
+      "size": 1136,
+      "hash": "8e7d4cac0a17f15014de155cdfe1f2d031083192"
+    },
+    {
+      "path": "app/gantt/res/toggle-expand.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/res/toggle-expand.png",
+      "size": 506,
+      "hash": "c2d4a3e8207163611559861eedb922b94dfe5ce9"
+    },
+    {
+      "path": "app/gantt/res/toggle_collapse.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/res/toggle_collapse.png",
+      "size": 444,
+      "hash": "207ca428e0678518feae8470353c53a9b8780238"
+    },
+    {
+      "path": "app/gantt/res/twBanner.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/res/twBanner.jpg",
+      "size": 12697,
+      "hash": "f4c55ee265aeb1dc494732e3eb5333393cf92010"
+    },
+    {
+      "path": "app/gantt/libs/JST/jquery.JST.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/JST/jquery.JST.js",
+      "size": 5007,
+      "hash": "afec0602f8a22d37e77cab95dfbef610e76fcd5a"
+    },
+    {
+      "path": "app/gantt/libs/dateField/jquery.dateField.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/dateField/jquery.dateField.css",
+      "size": 1473,
+      "hash": "20b185e1803e39bfb00109a00b62cf07ed3b2fa1"
+    },
+    {
+      "path": "app/gantt/libs/dateField/jquery.dateField.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/dateField/jquery.dateField.js",
+      "size": 7626,
+      "hash": "f74e2a1cb936aaf982657c2c01450fc8e0a1e813"
+    },
+    {
+      "path": "app/gantt/libs/dateField/images/next.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/dateField/images/next.png",
+      "size": 148,
+      "hash": "469a53586575bb6e1f8e65d844f4a0207002505f"
+    },
+    {
+      "path": "app/gantt/libs/dateField/images/prev.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/gantt/libs/dateField/images/prev.png",
+      "size": 146,
+      "hash": "a37f97a89a98a5668443fac89dae8ee2f13d3ca0"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/images/flags.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/images/flags.png",
+      "size": 28123,
+      "hash": "5a374563d6a64f3101f74cfc6f274ad8700b9bb9"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.eot",
+      "size": 76518,
+      "hash": "607f017baf8ad108d39d0c6f48e2c5ed21f0107e"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.svg",
+      "size": 391622,
+      "hash": "0dec7c1cb326f727e9ba46e7f2d621148a6f5483"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.ttf",
+      "size": 152796,
+      "hash": "215bd7d9b8f62fa937c25eeb79302c2eeae617c2"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.woff",
+      "size": 90412,
+      "hash": "920fe6d1fde2e7dc8f2bcff0adba816e1418d150"
+    },
+    {
+      "path": "app/lib/semantic-ui/src/themes/default/assets/fonts/icons.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lib/semantic-ui/src/themes/default/assets/fonts/icons.woff2",
+      "size": 71896,
+      "hash": "34128b97e6bf4408e6a9ec570f27b22a977b54e2"
+    }
+  ]
+}
