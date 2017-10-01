@@ -20,7 +20,7 @@
   "scripts": {
     "start": "MONGO_URL=mongodb://userKJ8:3KUEGgrMQEddLfqt@mongodb/sampledb PORT=8080 ROOT_URL=$IP node bundle/main.js",
     "test": "IP=0.0.0.0 PORT=3030 mocha --timeout 5000 tests/*_test.js",
-    "install": "node npm-rebuild.js"
+    "install": "node bundle/programs/server/npm-rebuild.js"
   },
   "repository": {
     "type": "git",
